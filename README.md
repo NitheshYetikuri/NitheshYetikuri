@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI and machine learning projects
 - 📫 How to reach me: yetikurinithesh@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a certified cloud practitioner and a software employee at Cognizant
+- ⚡ Notable Mention: I'm a certified cloud practitioner and a software employee at Cognizant
 
 **Projects**
 - Spring Boot
