@@ -14,3 +14,4 @@
 - PyTorch
 - Large Language Models (LLMs)
 - CrewAI
+- MCP (Model Context Protocol)
