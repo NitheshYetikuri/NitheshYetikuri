@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about advanced AI models and their applications
 - 🤝 I’m looking to collaborate on AI and machine learning projects
 - 📫 How to reach me: yetikurinithesh@gmail.com
-- ⚡ Notable Mention: I'm a certified cloud practitioner and a software employee at Cognizant
+- ⚡ Notable Mention: I'm 2X AWS Certified and a software employee at Cognizant
 
 **Projects**
 - Spring Boot
@@ -13,3 +13,4 @@
 - Retrieval-Augmented Generation (RAG)
 - PyTorch
 - Large Language Models (LLMs)
+- CrewAI
